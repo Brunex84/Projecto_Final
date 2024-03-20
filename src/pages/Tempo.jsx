@@ -32,7 +32,7 @@ function FetchData() {
 							}}
 							id='city-input'
 							type='text'
-							placeholder='Enter your City'
+							placeholder='Enter your City and press enter'
 						/>
 					</div>
 

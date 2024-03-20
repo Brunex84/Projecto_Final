@@ -8,7 +8,7 @@
   --bg-color: hsla(0, 0%, 96%, 1);
   --form-color: hsla(0, 3%, 97%, 1);
   --form-text-color: hsla(241, 10%, 68%, 1);
-  --header-footer: #05ffea;
+  --header-footer: #05ffea6c;
 
   --primary-font: 'Poppins', sans-serif;
   --secondary-font: 'Playfair Display', serif;
@@ -52,7 +52,7 @@ img {
 
 body {
   font-size: var(--normal-font-size);
-  background-color: #fff;
+  background-color: #c7c3c3bc;
   color: var(--title-color);
   font-weight: var(--fw-medium);
   font-family: var(--primary-font);
