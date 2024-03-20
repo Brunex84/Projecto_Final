@@ -30,7 +30,7 @@ const Header = () => {
 						</li>
 						<li className='nav__item'>
 							<Link to='/tempo' className='nav__link'>
-								Time
+								Weather
 							</Link>
 						</li>
 					</ul>
