@@ -1,0 +1,5 @@
+Com a criação deste projecto, agência de viagens BR, desejo ajudar todas as pessoas a procurar o seu melhor destino para férias ou mesmo lazer, quer sejam jovens ou idosos.
+
+Neste projecto foi usada uma boa semântica de HTML e CSS, para o desenvolvimento do site. O site foi desenvolvido com o framework React. Foram usados os hooks "useState" e "useEffect" para fazer leitura e gravação de dados. A utilização de API e formulário também está presnete. O formulário usado serve para os utilizadores se inscreverem para receberem sempre informação actualizada de novos destinos e promoções.
+
+Serão implementadas melhorias no futuro para que o utilizador tenha uma melhor interacção com o conteúdo apresentado, assim como mais conteúdo para o utilzador estar o máximo possível informado acerca de destinos. Estão englobados o dark/light theme, idioma do site em vários idiomas e muito mais.

@@ -3,7 +3,6 @@ import { Link } from 'react-router-dom';
 import Footer from '../components/Footer';
 import { useEffect} from 'react';
 
-
 const HomePage = () => {
 	const getStarted = () => {
 		window.scrollTo({
